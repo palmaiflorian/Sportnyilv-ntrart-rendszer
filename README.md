@@ -1,1 +1,1 @@
-# Sportnyilv-ntrart-rendszer
+# Sportnyilvantrarto rendszer
